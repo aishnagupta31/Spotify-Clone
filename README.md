@@ -1,3 +1,3 @@
 # New Project
 
-This project is created from local system.Created by Aishna gupta.
+This project is created from local system. Created by Aishna gupta.
